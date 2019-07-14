@@ -28,4 +28,8 @@
 # Ignore all local history of files
 .history
 
+#Node_modules
+/src/frontend/node_modules/*
+node_modules/*
+
 # End of https://www.gitignore.io/api/git,visualstudiocode
